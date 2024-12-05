@@ -5,7 +5,7 @@ This Book Recommendation system is based on the book you read, and the system wi
 This is a practicing project for student in National Taiwan University.This project aiming to using KNN method to recommend a book based on you have been read.
 ## Dataset Information
 - **Data source**：Book-Crossing dataset form kaggle: https://www.kaggle.com/datasets/ra4u12/bookrecommendation
--  Data ：BX-Books.csv, BX-Users.csv, BX-Book-Ratings.csv
+- **Data**：BX-Books.csv, BX-Users.csv, BX-Book-Ratings.csv
 - **Columns**：
   - ISBN
   - used_id
