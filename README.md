@@ -1,6 +1,6 @@
 # Book Recommendation System
 
-## Project Overview)
+## Project Overview
 This Book Recommendation system is based on the book you read, and the system will  recommned for the similar book for you.
 This is a practicing project for student in National Taiwan University.This project aiming to using KNN method to recommend a book based on you have been read.
 ## Dataset Information
